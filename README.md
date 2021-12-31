@@ -4,13 +4,13 @@
 
 ```
 C                        G7
-Should tensor dim be denied
+Should tensor dim be denied, and cause a fatal error
 
     C                F
-And cause a fatal error
+Should autoencoder fail to work, should I lose my mind?
 
        C                 G7
-Should I lose my mind, my dear? Should I lose my mind?
+
 
 Am          F    G7   C
 I'll comment out the working code and start afresh next time.
@@ -19,7 +19,7 @@ F   C         G7
 O tensor dim, o tensor dim, will I lose my mind?
 
     C         F
-What is the correct input shape???  Is the tensor still 2d?
+What is the correct input shape???  How is the dim defined?
 
       C            G7
 
